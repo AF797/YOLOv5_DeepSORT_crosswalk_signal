@@ -9,4 +9,4 @@ DeepSORT를 이용하여 보행자를 인식하여 횡단보도 연석을 기준
 3. 보행자 신호가 적색일 경우
 
 #구현
-[![Video Label](https://youtu.be/Spxs9Y-MiNg/0.jpg)](https://youtu.be/Spxs9Y-MiNg?t=0s)
+[![Video Label](http://img.youtube.com/vi/Spxs9Y-MiNg/0.jpg)](https://youtu.be/Spxs9Y-MiNg?t=0s)
