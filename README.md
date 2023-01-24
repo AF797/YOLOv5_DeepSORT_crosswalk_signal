@@ -8,5 +8,8 @@ DeepSORT를 이용하여 보행자를 인식하여 횡단보도 연석을 기준
 2. 보행자 건너고 있는 도중 보행자 신호가 녹색에서 적색으로 바뀔 경우
 3. 보행자 신호가 적색일 경우
 
-#구현
+# 구현 영상
 [![Video Label](http://img.youtube.com/vi/Spxs9Y-MiNg/0.jpg)](https://youtu.be/Spxs9Y-MiNg?t=0s)
+
+# notice
+영상에서 사람 인식률이 저조한데 이는 학습을 통하여 충분히 개선 가능하다.
